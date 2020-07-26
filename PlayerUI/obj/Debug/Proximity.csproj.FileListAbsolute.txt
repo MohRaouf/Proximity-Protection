@@ -1,0 +1,17 @@
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.csprojAssemblyReference.cache
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.Form4.resources
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.Properties.Resources.resources
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.csproj.GenerateResource.cache
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.csproj.CoreCompileInputs.cache
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\bin\Debug\Database.mdf
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\bin\Debug\Database_log.ldf
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\bin\Debug\Proximity.exe.config
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\bin\Debug\Proximity.exe
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\bin\Debug\Proximity.pdb
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.exe
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.pdb
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\bin\Debug\MySql.Data.dll
+C:\Users\mohpr\Desktop\Proximity Protection\PlayerUI\obj\Debug\Proximity.csproj.CopyComplete
